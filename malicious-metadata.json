@@ -1,8 +1,8 @@
 {
-  "name": "SSRF Test NFT",
-  "description": "Test NFT for SSRF research - Do Not Change",
-  "image": "https://picsum.photos/id/237/200/200",
+  "name": "SSRF Test v2",
+  "description": "Testing SSRF via NFT Metadata",
+  "image": "https://picsum.photos/id/1005/300/300",
   "properties": {
-    "category": "test"
+    "test": "ssrf"
   }
 }
